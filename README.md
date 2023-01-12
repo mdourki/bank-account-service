@@ -7,6 +7,8 @@ Créer un micro service qui permet des gérer des comptes bancaires.
 
 ## Architecture
 
+![Untitled-2](https://user-images.githubusercontent.com/49799187/212204345-c2b24e64-9e2f-40d5-9430-b9f9f0278548.jpg)
+
 
 ## Exécution
 
