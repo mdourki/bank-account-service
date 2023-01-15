@@ -3,7 +3,7 @@
 
 ## Objectif
 
-Créer un micro service qui permet des gérer des comptes bancaires.
+Créer un micro service qui permet de gérer des comptes bancaires.
 
 ## Architecture
 
